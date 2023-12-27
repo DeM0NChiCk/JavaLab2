@@ -1,3 +1,5 @@
-## HOMEWORK 2 
-в app: Перый запуск приложения на Go; \
-в app2: Пример микросервиса с работой Goroutines и Context.
+# HOMEWORK 2 
+## app
+Перый запуск приложения на Go; 
+## app2
+Пример микросервиса с работой Goroutines и Context.
